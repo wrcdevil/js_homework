@@ -31,7 +31,7 @@ let out2=document.querySelector('.out2');
 // }
 // div1.onclick=t2();
 /////////////////////////////////////////////
-
+// есть распространенные ивенты:  onmouseup -down onmouseenter onmouseleave
 //task3
 let w=55;
 div2.onclick=function () {
